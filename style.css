@@ -36,7 +36,7 @@ main{
 
 .item1{
     height: 100%;
-    border: 2px solid red;
+    /* border: 2px solid red; */
     margin-bottom: 1rem;
      background: #7541cb;
     background-image: url("https://kabir-sagiii.github.io/CSS_Grid_learn-grid-the-easy-way/images/bg-pattern-quotation.svg");
